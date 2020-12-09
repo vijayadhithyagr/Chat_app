@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928458426240",
+    "project_id": "flash-chat-456eb",
+    "storage_bucket": "flash-chat-456eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928458426240:android:78508ceb9a187fb4046365",
+        "android_client_info": {
+          "package_name": "co.vijay.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928458426240-md52aia4uiqbre5k5flp2aeno3i4h6le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMeSungexRvkCBE3R2xwI_L2qZ4WKTqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928458426240-md52aia4uiqbre5k5flp2aeno3i4h6le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
